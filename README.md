@@ -102,4 +102,4 @@ wants to conduct a custom study (look at a different TF, change N, etc).
 
 ##CITATION
 
-Santolini M, Mora T, Hakim V (2014) A General Pairwise Interaction Model Provides an Accurate Description of In Vivo Transcription Factor Binding Sites. PLoS ONE 9(6): e99015. doi:10.1371/journal.pone.0099015
+Santolini M, Mora T, Hakim V (2014) A General Pairwise Interaction Model Provides an Accurate Description of In Vivo Transcription Factor Binding Sites. PLoS ONE 9(6): e99015. [doi:10.1371/journal.pone.0099015](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0099015)
